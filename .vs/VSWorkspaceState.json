@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MVCTesting",
+    "\\MVCTesting\\Controllers",
+    "\\MVCTesting\\Models",
+    "\\MVCTesting\\Views",
+    "\\MVCTesting\\Views\\Home",
+    "\\MVCTesting\\Views\\Testing"
+  ],
+  "SelectedNode": "\\MVCTesting\\Views\\Home\\Expenses.cshtml",
+  "PreviewInSolutionExplorer": false
+}

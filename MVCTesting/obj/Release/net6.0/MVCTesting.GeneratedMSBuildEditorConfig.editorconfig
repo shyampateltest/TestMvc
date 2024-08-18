@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVCTesting
+build_property.RootNamespace = MVCTesting
+build_property.ProjectDir = C:\Users\shyam\Desktop\Misc\Projects\Testing\MVCTesting\MVCTesting\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\shyam\Desktop\Misc\Projects\Testing\MVCTesting\MVCTesting
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/shyam/Desktop/Misc/Projects/Testing/MVCTesting/MVCTesting/Controllers/testview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbGxlcnNcdGVzdHZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shyam/Desktop/Misc/Projects/Testing/MVCTesting/MVCTesting/Views/Home/CreateEditExpense.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVFZGl0RXhwZW5zZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shyam/Desktop/Misc/Projects/Testing/MVCTesting/MVCTesting/Views/Home/Expenses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFeHBlbnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shyam/Desktop/Misc/Projects/Testing/MVCTesting/MVCTesting/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shyam/Desktop/Misc/Projects/Testing/MVCTesting/MVCTesting/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shyam/Desktop/Misc/Projects/Testing/MVCTesting/MVCTesting/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shyam/Desktop/Misc/Projects/Testing/MVCTesting/MVCTesting/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shyam/Desktop/Misc/Projects/Testing/MVCTesting/MVCTesting/Views/Testing/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGluZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shyam/Desktop/Misc/Projects/Testing/MVCTesting/MVCTesting/Views/Testing/Page1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGluZ1xQYWdlMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shyam/Desktop/Misc/Projects/Testing/MVCTesting/MVCTesting/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shyam/Desktop/Misc/Projects/Testing/MVCTesting/MVCTesting/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shyam/Desktop/Misc/Projects/Testing/MVCTesting/MVCTesting/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-u653rokilq
